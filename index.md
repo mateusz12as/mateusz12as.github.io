@@ -17,7 +17,7 @@ Obecnie jestem studentem AGH w Krakowie. Wraz z kolegami pracujemy nad projektem
 
 ### Obrazek
 
-![Statk_kosmiczny](https://play.google.com/store/apps/details?id=com.raider.spaceshooter&hl=pl)
+![Statk_kosmiczny](https://play-lh.googleusercontent.com/7tZaYZzRqxHToU5ToDUfxhe-c7YhlPpV1AcdxBPi9znbuDjGSMcyRQ_fphs4yJy1tQ)
 
 
 
