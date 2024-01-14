@@ -4,7 +4,7 @@ layout: default
 
 
 # Krótki opis
-Obecnie jestem studentem AGH w Krakowie. Wraz z kolegami pracujemy nad projektem SPACE SHOOTER. Będzie to gra rozgrywająca się w kosmicznej przestrzni. Gracz będzie statkiem kosmicznym i będzie walczyl z przeciwnikami
+Obecnie jestem studentem AGH w Krakowie. Wraz z kolegami pracujemy nad projektem SPACE SHOOTER. Będzie to gra rozgrywająca się w kosmicznej przestrzni. Gracz będzie statkiem kosmicznym i będzie walczyl z przeciwnikami.
 
 
 
